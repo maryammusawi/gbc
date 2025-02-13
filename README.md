@@ -28,4 +28,3 @@
   * 09:00 - [COMM1000 - INTRO TO COLLEGE COMMUNIC](https://learn.georgebrown.ca/d2l/home/316233)   
   * 14:00 - [COMP1151 - IT ESSENTIALS](https://learn.georgebrown.ca/d2l/home/335101)
 
- (https://github.com/comp1238w25/asgn1-maryammusawi)
