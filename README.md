@@ -21,8 +21,11 @@
 * **Thursday**  
   * 10:00 - [COMP1238 - INTRODUCTION TO DATA MGMT](https://learn.georgebrown.ca/d2l/home/334969) 
   * 12:00 - [MATH FOR COMPUTER TECHNOLOGY I](https://learn.georgebrown.ca/d2l/home/325357)  
-  * 14:00 - [COMP1238 - FUND. OF COMPUTING LOGIC](https://learn.georgebrown.ca/d2l/home/337951)
+  * 14:00 - [COMP1238 - FUND. OF COMPUTING LOGIC]
+   
 
 * **Friday**  
   * 09:00 - [COMM1000 - INTRO TO COLLEGE COMMUNIC](https://learn.georgebrown.ca/d2l/home/316233)   
   * 14:00 - [COMP1151 - IT ESSENTIALS](https://learn.georgebrown.ca/d2l/home/335101)
+
+ (https://github.com/comp1238w25/asgn1-maryammusawi)
