@@ -28,3 +28,5 @@
   * 09:00 - [COMM1000 - INTRO TO COLLEGE COMMUNIC](https://learn.georgebrown.ca/d2l/home/316233)   
   * 14:00 - [COMP1151 - IT ESSENTIALS](https://learn.georgebrown.ca/d2l/home/335101)
 
+[Link to the GitHub repo](https://github.com/maryammusawi/gbc) 
+
