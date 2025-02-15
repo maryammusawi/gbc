@@ -21,7 +21,7 @@
 * **Thursday**  
   * 10:00 - [COMP1238 - INTRODUCTION TO DATA MGMT](https://learn.georgebrown.ca/d2l/home/334969) 
   * 12:00 - [MATH FOR COMPUTER TECHNOLOGY I](https://learn.georgebrown.ca/d2l/home/325357)  
-  * 14:00 - [COMP1238 - FUND. OF COMPUTING LOGIC]
+  * 14:00 - [COMP1238 - FUND. OF COMPUTING LOGIC](https://learn.georgebrown.ca/d2l/home/337951) 
    
 
 * **Friday**  
